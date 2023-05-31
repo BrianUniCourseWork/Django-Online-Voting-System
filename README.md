@@ -1,0 +1,4 @@
+# Django-Online-Voting-System
+Final Year Project for my Bachelor in Computer Science
+#SOME FILES MISSING ON PURPOSE SINCE THIS PROJECT IS NOT YET GRADED (COPYRIGHT INFRIGMENT WOULD COST ME MARKS!!)
+
